@@ -8,7 +8,6 @@ O **M.O.V.E** é um sistema que reconhece gestos com a mão utilizando a câmera
 
 ## 🧠 Tecnologias Utilizadas
 
-- 📱 **Kodular** ou **GoodBarber** (App para Android)
 - 🤖 **ESP32** (Microcontrolador)
 - 🎥 **MediaPipe Hands** ou Redes Neurais Convolucionais (CNNs)
 - 🔵 **Bluetooth** / 📡 **Wi-Fi**
