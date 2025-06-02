@@ -24,7 +24,7 @@ O **M.O.V.E** é um sistema que reconhece gestos com a mão utilizando a câmera
 
 ## 👩‍💻 Equipe
 
-- Antonio (Desenvolvedora principal)
+- Antonio (Desenvolvedor principal)
 - [Outros membros, se houver...]
 
 ## 📁 Estrutura do Repositório
